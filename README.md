@@ -3,7 +3,7 @@
 This is a web-based application developed for medical and hospital facilities in India.
 ###This web-based health application has been developed for the accomplishment of the Future Ready Talent Internship Program launched by Microsoft, Future Skills Prime, Quess, Github, and EY.
 
-**PROJECT LINK **--
+**PROJECT LINK **--https://white-ground-0c4607400.3.azurestaticapps.net
 *Demo Video Link*--
 
 Azure Technologies used for project😀😀
@@ -40,6 +40,14 @@ Features and Functionalities:😊😊
 #Healthbot:
 
 ![Healthbot](https://github.com/GunnamAnusha/MedicalProject/assets/104266598/99829296-5d2b-4127-9228-19d93a5d812f)
+
+
+Tech Stack
+-Azure(Hosting)
+-HTML
+-CSS
+-Bootstrap
+-JavaScript
 
 
 
