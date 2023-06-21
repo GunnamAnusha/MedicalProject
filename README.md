@@ -4,7 +4,7 @@ This is a web-based application developed for medical and hospital facilities in
 ###This web-based health application has been developed for the accomplishment of the Future Ready Talent Internship Program launched by Microsoft, Future Skills Prime, Quess, Github, and EY.
 
 **PROJECT LINK **--https://white-ground-0c4607400.3.azurestaticapps.net
-*Demo Video Link*--
+*Demo Video Link*--https://youtu.be/8DAcwy70bbw
 
 Azure Technologies used for project😀😀
 --Static web apps
